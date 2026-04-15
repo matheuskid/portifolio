@@ -13,3 +13,11 @@ theme = 'terminal'
 [[menus.main]]
     name = "Github"
     url = "https://github.com/matheuskid"
+    [menus.main.params]
+        NewTab = true
+
+[[menus.main]]
+    name = "Linkedin"
+    url = "https://www.linkedin.com/in/matheus-mendes-275b04210/"
+    [menus.main.params]
+        NewTab = true
