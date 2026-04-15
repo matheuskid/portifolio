@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LangGraph on matheuskid@portifolio:-$</title>
+    <link>http://localhost:1313/tags/langgraph/</link>
+    <description>Recent content in LangGraph on matheuskid@portifolio:-$</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/langgraph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RAG Multi-Agente para Conhecimento Organizacional</title>
+      <link>http://localhost:1313/posts/rag-multiagente/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rag-multiagente/</guid>
+      <description>&lt;h3 id=&#34;contexto-e-desafio&#34;&gt;Contexto e Desafio&lt;/h3&gt;&#xA;&lt;p&gt;Sistemas de busca tradicionais muitas vezes falham em extrair informações precisas de documentos corporativos longos. Este projeto propõe uma arquitetura de &lt;strong&gt;Retrieval-Augmented Generation (RAG)&lt;/strong&gt; multi-agente para resolver esse problema.&lt;/p&gt;&#xA;&lt;h3 id=&#34;implementação-técnica&#34;&gt;Implementação Técnica&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orquestração:&lt;/strong&gt; Utilize o &lt;strong&gt;LangGraph&lt;/strong&gt; para gerenciar o fluxo de trabalho e a comunicação entre agentes especializados.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Embeddings e Vetores:&lt;/strong&gt; Implementação de banco de dados vetorial com &lt;strong&gt;ChromaDB&lt;/strong&gt; e modelos &lt;strong&gt;MistralAI&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inteligência:&lt;/strong&gt; Uso do modelo &lt;strong&gt;Llama3&lt;/strong&gt; com regras internas para mitigar alucinações e garantir a relevância das respostas.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link: &amp;ldquo;&lt;a href=&#34;https://sol.sbc.org.br/index.php/wesaac/article/view/37548%22&#34;&gt;https://sol.sbc.org.br/index.php/wesaac/article/view/37548&#34;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

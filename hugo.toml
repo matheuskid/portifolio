@@ -1,0 +1,11 @@
+baseURL = 'https://matheuskid.github.io/'
+locale = 'pt-br'
+title = 'matheuskid@portifolio:-$'
+theme = 'terminal'
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[languages.en.params.logo]
+    logoText = "matheuskid@portifolio:-$"
+    logoHomeLink = "/"

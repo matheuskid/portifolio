@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flutter on matheuskid@portifolio:-$</title>
+    <link>http://localhost:1313/tags/flutter/</link>
+    <description>Recent content in Flutter on matheuskid@portifolio:-$</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyTasks - Aplicativo para Gestão de Tarefas</title>
+      <link>http://localhost:1313/posts/my-tasks-app/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-tasks-app/</guid>
+      <description>&lt;p&gt;O &lt;kbd&gt;MyTasks&lt;/kbd&gt; é um aplicativo pessoal de gestão de tarefas. O projeto foca em uma separação clara de responsabilidades, garantindo segurança via autenticação JWT e uma interface mobile intuitiva e reativa. O projeto foi desenvolvido com o intuito de aprimorar meus conhecimentos em Backend e adquirir novas competências de Frontend e Mobile.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;stack-tecnológica&#34;&gt;Stack Tecnológica&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;kbd&gt;Backend&lt;/kbd&gt;: Desenvolvido com &lt;abbr title=&#34;&#34;&gt;Spring Boot&lt;/abbr&gt;, utilizando &lt;abbr title=&#34;&#34;&gt;Spring Security&lt;/abbr&gt; para proteção de dados e &lt;abbr title=&#34;&#34;&gt;Hibernate&lt;/abbr&gt; para mapeamento objeto-relacional;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;kbd&gt;Mobile&lt;/kbd&gt;: Interface moderna e performática construída com &lt;abbr title=&#34;&#34;&gt;Flutter&lt;/abbr&gt;;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
