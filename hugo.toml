@@ -8,4 +8,8 @@ theme = 'terminal'
 
 [languages.en.params.logo]
     logoText = "matheuskid@portifolio:-$"
-    logoHomeLink = "/"
+    logoHomeLink = "/portifolio"
+
+[[menus.main]]
+    name = "Github"
+    url = "https://github.com/matheuskid"

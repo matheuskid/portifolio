@@ -2,7 +2,7 @@
 title: "MyTasks - Aplicativo para Gestão de Tarefas"
 date: 2026-04-14
 description: "Ecossistema completo com API Spring Boot e App Mobile em Flutter."
-tags: ["Java", "Spring Boot", "Flutter", "PostgreSQL", "Docker", "JWT"]
+tags: ["Java", "Spring Boot", "Flutter", "Docker", "JWT"]
 showDate: true
 ---
 

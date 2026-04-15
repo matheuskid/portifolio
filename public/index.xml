@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on matheuskid@portifolio:-$</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/portifolio/</link>
     <description>Recent content in Home on matheuskid@portifolio:-$</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portifolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyTasks - Aplicativo para Gestão de Tarefas</title>
-      <link>http://localhost:1313/posts/my-tasks-app/</link>
+      <link>http://localhost:1313/portifolio/posts/my-tasks-app/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-tasks-app/</guid>
+      <guid>http://localhost:1313/portifolio/posts/my-tasks-app/</guid>
       <description>&lt;p&gt;O &lt;kbd&gt;MyTasks&lt;/kbd&gt; é um aplicativo pessoal de gestão de tarefas. O projeto foca em uma separação clara de responsabilidades, garantindo segurança via autenticação JWT e uma interface mobile intuitiva e reativa. O projeto foi desenvolvido com o intuito de aprimorar meus conhecimentos em Backend e adquirir novas competências de Frontend e Mobile.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;stack-tecnológica&#34;&gt;Stack Tecnológica&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;kbd&gt;Backend&lt;/kbd&gt;: Desenvolvido com &lt;abbr title=&#34;&#34;&gt;Spring Boot&lt;/abbr&gt;, utilizando &lt;abbr title=&#34;&#34;&gt;Spring Security&lt;/abbr&gt; para proteção de dados e &lt;abbr title=&#34;&#34;&gt;Hibernate&lt;/abbr&gt; para mapeamento objeto-relacional;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;kbd&gt;Mobile&lt;/kbd&gt;: Interface moderna e performática construída com &lt;abbr title=&#34;&#34;&gt;Flutter&lt;/abbr&gt;;&lt;/p&gt;</description>
     </item>
     <item>
       <title>RAG Multi-Agente para Conhecimento Organizacional</title>
-      <link>http://localhost:1313/posts/rag-multiagente/</link>
+      <link>http://localhost:1313/portifolio/posts/rag-multiagente/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/rag-multiagente/</guid>
-      <description>&lt;h3 id=&#34;contexto-e-desafio&#34;&gt;Contexto e Desafio&lt;/h3&gt;&#xA;&lt;p&gt;Sistemas de busca tradicionais muitas vezes falham em extrair informações precisas de documentos corporativos longos. Este projeto propõe uma arquitetura de &lt;strong&gt;Retrieval-Augmented Generation (RAG)&lt;/strong&gt; multi-agente para resolver esse problema.&lt;/p&gt;&#xA;&lt;h3 id=&#34;implementação-técnica&#34;&gt;Implementação Técnica&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Orquestração:&lt;/strong&gt; Utilize o &lt;strong&gt;LangGraph&lt;/strong&gt; para gerenciar o fluxo de trabalho e a comunicação entre agentes especializados.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Embeddings e Vetores:&lt;/strong&gt; Implementação de banco de dados vetorial com &lt;strong&gt;ChromaDB&lt;/strong&gt; e modelos &lt;strong&gt;MistralAI&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Inteligência:&lt;/strong&gt; Uso do modelo &lt;strong&gt;Llama3&lt;/strong&gt; com regras internas para mitigar alucinações e garantir a relevância das respostas.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Link: &amp;ldquo;&lt;a href=&#34;https://sol.sbc.org.br/index.php/wesaac/article/view/37548%22&#34;&gt;https://sol.sbc.org.br/index.php/wesaac/article/view/37548&#34;&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/portifolio/posts/rag-multiagente/</guid>
+      <description>&lt;p&gt;Sistemas de busca tradicionais muitas vezes falham em extrair informações precisas de documentos corporativos longos. Este artigo propõe uma arquitetura &lt;abbr title=&#34;Retrieval-Augmented Generation&#34;&gt;RAG&lt;/abbr&gt; multi-agente para resolver esse problema.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;implementação&#34;&gt;Implementação&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;kbd&gt;Orquestração&lt;/kbd&gt;: &lt;strong&gt;LangGraph&lt;/strong&gt; + &lt;strong&gt;LangChain&lt;/strong&gt; foi utilizado para gerenciar o fluxo de trabalho e a comunicação entre agentes especializados;&lt;/li&gt;&#xA;&lt;li&gt;&lt;kbd&gt;Embeddings&lt;/kbd&gt;: Implementação de banco de dados vetorial com &lt;strong&gt;ChromaDB&lt;/strong&gt; e modelos &lt;strong&gt;MistralAI&lt;/strong&gt;;&lt;/li&gt;&#xA;&lt;li&gt;&lt;kbd&gt;LLM&lt;/kbd&gt;: Uso do modelo &lt;strong&gt;Llama3&lt;/strong&gt; com regras internas para mitigar alucinações e garantir a relevância das respostas.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Este&#xA;&lt;a href=&#34;https://sol.sbc.org.br/index.php/wesaac/article/view/37548&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;artigo&lt;/a&gt;&#xA;foi escrito em conjunto com &lt;a href=&#34;https://www.linkedin.com/in/guimoretti/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Guilherme Moretti&lt;/a&gt; e &lt;a href=&#34;https://www.linkedin.com/in/kalmax-sousa/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kalmax Sousa&lt;/a&gt;&#xA;para o XIX &lt;a href=&#34;https://sol.sbc.org.br/index.php/wesaac&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;WESAAC&lt;/a&gt;;&lt;/p&gt;</description>
     </item>
     <item>
       <title>VUTTR - Very Useful Tools to Remember</title>
-      <link>http://localhost:1313/posts/vuttr-bossabox-challenge/</link>
+      <link>http://localhost:1313/portifolio/posts/vuttr-bossabox-challenge/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vuttr-bossabox-challenge/</guid>
+      <guid>http://localhost:1313/portifolio/posts/vuttr-bossabox-challenge/</guid>
       <description>&lt;h3 id=&#34;descrição&#34;&gt;Descrição&lt;/h3&gt;&#xA;&lt;p&gt;Desenvolvimento de uma ferramenta para organizar e gerenciar utilitários (tools) de desenvolvedores, permitindo buscas rápidas e organização por tags.&lt;/p&gt;&#xA;&lt;h3 id=&#34;stack-tecnológica&#34;&gt;Stack Tecnológica&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backend:&lt;/strong&gt; Construído com &lt;strong&gt;Node.js&lt;/strong&gt; e &lt;strong&gt;Express&lt;/strong&gt; seguindo a arquitetura RESTful.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Banco de Dados:&lt;/strong&gt; Persistência relacional utilizando &lt;strong&gt;PostgreSQL&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Documentação:&lt;/strong&gt; Uso estratégico do &lt;strong&gt;Swagger&lt;/strong&gt; para facilitar o entendimento e consumo da API por outros desenvolvedores.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;diferenciais&#34;&gt;Diferenciais&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ambiente 100% replicável via &lt;strong&gt;Docker&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Foco em &lt;strong&gt;Clean Code&lt;/strong&gt; e organização de repositório profissional.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

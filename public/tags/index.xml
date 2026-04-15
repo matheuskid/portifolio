@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on matheuskid@portifolio:-$</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/portifolio/tags/</link>
     <description>Recent content in Tags on matheuskid@portifolio:-$</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 14 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portifolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>http://localhost:1313/portifolio/tags/docker/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>http://localhost:1313/portifolio/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Flutter</title>
-      <link>http://localhost:1313/tags/flutter/</link>
+      <link>http://localhost:1313/portifolio/tags/flutter/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/flutter/</guid>
+      <guid>http://localhost:1313/portifolio/tags/flutter/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/tags/java/</link>
+      <link>http://localhost:1313/portifolio/tags/java/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/java/</guid>
+      <guid>http://localhost:1313/portifolio/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>JWT</title>
-      <link>http://localhost:1313/tags/jwt/</link>
+      <link>http://localhost:1313/portifolio/tags/jwt/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jwt/</guid>
+      <guid>http://localhost:1313/portifolio/tags/jwt/</guid>
       <description></description>
     </item>
     <item>
       <title>PostgreSQL</title>
-      <link>http://localhost:1313/tags/postgresql/</link>
+      <link>http://localhost:1313/portifolio/tags/postgresql/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/postgresql/</guid>
+      <guid>http://localhost:1313/portifolio/tags/postgresql/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring Boot</title>
-      <link>http://localhost:1313/tags/spring-boot/</link>
+      <link>http://localhost:1313/portifolio/tags/spring-boot/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spring-boot/</guid>
+      <guid>http://localhost:1313/portifolio/tags/spring-boot/</guid>
       <description></description>
     </item>
     <item>
       <title>ChromaDB</title>
-      <link>http://localhost:1313/tags/chromadb/</link>
+      <link>http://localhost:1313/portifolio/tags/chromadb/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/chromadb/</guid>
+      <guid>http://localhost:1313/portifolio/tags/chromadb/</guid>
       <description></description>
     </item>
     <item>
       <title>IA Generativa</title>
-      <link>http://localhost:1313/tags/ia-generativa/</link>
+      <link>http://localhost:1313/portifolio/tags/ia-generativa/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ia-generativa/</guid>
+      <guid>http://localhost:1313/portifolio/tags/ia-generativa/</guid>
       <description></description>
     </item>
     <item>
       <title>LangGraph</title>
-      <link>http://localhost:1313/tags/langgraph/</link>
+      <link>http://localhost:1313/portifolio/tags/langgraph/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/langgraph/</guid>
+      <guid>http://localhost:1313/portifolio/tags/langgraph/</guid>
       <description></description>
     </item>
     <item>
       <title>Llama3</title>
-      <link>http://localhost:1313/tags/llama3/</link>
+      <link>http://localhost:1313/portifolio/tags/llama3/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/llama3/</guid>
+      <guid>http://localhost:1313/portifolio/tags/llama3/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>http://localhost:1313/portifolio/tags/python/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>http://localhost:1313/portifolio/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Express</title>
-      <link>http://localhost:1313/tags/express/</link>
+      <link>http://localhost:1313/portifolio/tags/express/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/express/</guid>
+      <guid>http://localhost:1313/portifolio/tags/express/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
-      <link>http://localhost:1313/tags/node.js/</link>
+      <link>http://localhost:1313/portifolio/tags/node.js/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/node.js/</guid>
+      <guid>http://localhost:1313/portifolio/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>Swagger</title>
-      <link>http://localhost:1313/tags/swagger/</link>
+      <link>http://localhost:1313/portifolio/tags/swagger/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/swagger/</guid>
+      <guid>http://localhost:1313/portifolio/tags/swagger/</guid>
       <description></description>
     </item>
   </channel>
