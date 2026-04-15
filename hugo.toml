@@ -1,4 +1,4 @@
-baseURL = 'https://matheuskid.github.io/portifolio'
+baseURL = "https://matheuskid.github.io/portifolio/"
 locale = 'pt-br'
 title = 'matheuskid@portifolio:-$'
 theme = 'terminal'
