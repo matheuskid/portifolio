@@ -6,7 +6,7 @@ theme = 'terminal'
 [markup.goldmark.renderer]
     unsafe = true
 
-[languages.en.params.logo]
+[params.logo]
     logoText = "matheuskid@portifolio:-$"
     logoHomeLink = "/portifolio"
 
