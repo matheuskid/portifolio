@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/portifolio/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portifolio/posts/infodev/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portifolio/tags/langchain/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portifolio/tags/langgraph/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portifolio/tags/multi-agent-systems/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portifolio/posts/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portifolio/tags/python/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portifolio/tags/rag/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portifolio/tags/</loc>
+    <lastmod>2026-04-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/portifolio/tags/docker/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portifolio/tags/flutter/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portifolio/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portifolio/tags/java/</loc>
@@ -20,13 +44,7 @@
     <loc>http://localhost:1313/portifolio/posts/my-tasks-app/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portifolio/posts/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/portifolio/tags/spring-boot/</loc>
-    <lastmod>2026-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portifolio/tags/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portifolio/tags/chromadb/</loc>
@@ -35,13 +53,7 @@
     <loc>http://localhost:1313/portifolio/tags/ia-generativa/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portifolio/tags/langgraph/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/portifolio/tags/llama3/</loc>
-    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portifolio/tags/python/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portifolio/posts/rag-multiagente/</loc>

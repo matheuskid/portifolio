@@ -6,8 +6,15 @@
     <description>Recent content in LangGraph on matheuskid@portifolio:-$</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/portifolio/tags/langgraph/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>InfoDev - RAG Multiagente para Engenharia de Software</title>
+      <link>http://localhost:1313/portifolio/posts/infodev/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portifolio/posts/infodev/</guid>
+      <description>&lt;p&gt;O &lt;kbd&gt;InfoDev&lt;/kbd&gt; é um sistema de busca e recuperação de informações projetado para ambientes de desenvolvimento de software.  Utilizando uma arquitetura de &lt;abbr title=&#34;Retrieval-Augmented Generation&#34;&gt;RAG&lt;/abbr&gt; multiagente, o sistema é capaz de navegar por fontes de informações heterogêneas para fornecer respostas precisas sobre o projeto de software.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Alguma vez você já olhou para o código e estranhou uma lógica que nunca viu antes? O InfoDev te ajuda! Ele relaciona aquela lógica com alguma task que a descreveu (ou até mesmo algum e-mail ou mensagem se for algo mais informal!) e retorna todas as informações pra você, promovendo rastreamento e relacionamento de informações!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>RAG Multi-Agente para Conhecimento Organizacional</title>
       <link>http://localhost:1313/portifolio/posts/rag-multiagente/</link>
