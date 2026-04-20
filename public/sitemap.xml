@@ -5,7 +5,7 @@
     <loc>http://localhost:1313/portifolio/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portifolio/posts/infodev/</loc>
+    <loc>http://localhost:1313/portifolio/posts/infodev/infodev/</loc>
     <lastmod>2026-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portifolio/tags/langchain/</loc>
@@ -41,7 +41,7 @@
     <loc>http://localhost:1313/portifolio/tags/jwt/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portifolio/posts/my-tasks-app/</loc>
+    <loc>http://localhost:1313/portifolio/posts/my-tasks/my-tasks-app/</loc>
     <lastmod>2026-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portifolio/tags/spring-boot/</loc>
@@ -56,7 +56,7 @@
     <loc>http://localhost:1313/portifolio/tags/llama3/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portifolio/posts/rag-multiagente/</loc>
+    <loc>http://localhost:1313/portifolio/posts/rag-multiagente/rag-multiagente/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portifolio/tags/express/</loc>
@@ -71,7 +71,7 @@
     <loc>http://localhost:1313/portifolio/tags/swagger/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portifolio/posts/vuttr-bossabox-challenge/</loc>
+    <loc>http://localhost:1313/portifolio/posts/vuttr/vuttr-bossabox-challenge/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portifolio/categories/</loc>

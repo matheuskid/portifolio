@@ -36,4 +36,4 @@ O <kbd>InfoDev</kbd> é um sistema de busca e recuperação de informações pro
 
 O fluxo de trabalho utiliza grafos de estado para gerenciar o raciocínio dos agentes, permitindo loops de feedback onde um agente revisor pode solicitar uma nova busca caso a informação inicial seja insuficiente.
 
-![Arquitetura do InfoDev](arquitetura.png)
+<img src="../arquitetura.png" alt="Arquitetura do InfoDev" width="70%">

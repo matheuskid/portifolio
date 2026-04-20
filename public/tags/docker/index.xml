@@ -10,16 +10,16 @@
     <atom:link href="http://localhost:1313/portifolio/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MyTasks - Aplicativo para Gestão de Tarefas</title>
-      <link>http://localhost:1313/portifolio/posts/my-tasks-app/</link>
+      <link>http://localhost:1313/portifolio/posts/my-tasks/my-tasks-app/</link>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portifolio/posts/my-tasks-app/</guid>
+      <guid>http://localhost:1313/portifolio/posts/my-tasks/my-tasks-app/</guid>
       <description>&lt;p&gt;O &lt;kbd&gt;MyTasks&lt;/kbd&gt; é um aplicativo pessoal de gestão de tarefas. O projeto foca em uma separação clara de responsabilidades, garantindo segurança via autenticação JWT e uma interface mobile intuitiva e reativa. O projeto foi desenvolvido com o intuito de aprimorar meus conhecimentos em Backend e adquirir novas competências de Frontend e Mobile.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;stack-tecnológica&#34;&gt;Stack Tecnológica&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;kbd&gt;Backend&lt;/kbd&gt;: Desenvolvido com &lt;abbr title=&#34;&#34;&gt;Spring Boot&lt;/abbr&gt;, utilizando &lt;abbr title=&#34;&#34;&gt;Spring Security&lt;/abbr&gt; para proteção de dados e &lt;abbr title=&#34;&#34;&gt;Hibernate&lt;/abbr&gt; para mapeamento objeto-relacional;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;kbd&gt;Mobile&lt;/kbd&gt;: Interface moderna e performática construída com &lt;abbr title=&#34;&#34;&gt;Flutter&lt;/abbr&gt;;&lt;/p&gt;</description>
     </item>
     <item>
       <title>VUTTR - Very Useful Tools to Remember</title>
-      <link>http://localhost:1313/portifolio/posts/vuttr-bossabox-challenge/</link>
+      <link>http://localhost:1313/portifolio/posts/vuttr/vuttr-bossabox-challenge/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portifolio/posts/vuttr-bossabox-challenge/</guid>
+      <guid>http://localhost:1313/portifolio/posts/vuttr/vuttr-bossabox-challenge/</guid>
       <description>&lt;h3 id=&#34;descrição&#34;&gt;Descrição&lt;/h3&gt;&#xA;&lt;p&gt;Desenvolvimento de uma ferramenta para organizar e gerenciar utilitários (tools) de desenvolvedores, permitindo buscas rápidas e organização por tags.&lt;/p&gt;&#xA;&lt;h3 id=&#34;stack-tecnológica&#34;&gt;Stack Tecnológica&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backend:&lt;/strong&gt; Construído com &lt;strong&gt;Node.js&lt;/strong&gt; e &lt;strong&gt;Express&lt;/strong&gt; seguindo a arquitetura RESTful.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Banco de Dados:&lt;/strong&gt; Persistência relacional utilizando &lt;strong&gt;PostgreSQL&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Documentação:&lt;/strong&gt; Uso estratégico do &lt;strong&gt;Swagger&lt;/strong&gt; para facilitar o entendimento e consumo da API por outros desenvolvedores.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;diferenciais&#34;&gt;Diferenciais&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ambiente 100% replicável via &lt;strong&gt;Docker&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Foco em &lt;strong&gt;Clean Code&lt;/strong&gt; e organização de repositório profissional.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

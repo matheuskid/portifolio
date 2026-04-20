@@ -2,16 +2,16 @@
 <html lang="en">
 <head><script src="/portifolio/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=portifolio/livereload" data-no-instant defer></script>
   
-    <title>VUTTR - Very Useful Tools to Remember :: matheuskid@portifolio:-$</title>
+    <title>RAG Multi-Agente para Conhecimento Organizacional :: matheuskid@portifolio:-$</title>
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="API Rest para gerenciamento de ferramentas com foco em documentação e containerização." />
+<meta name="description" content="Coautor de artigo científico focado em agentes de IA para processamento de documentos extensos, publicado no XIX WESAAC." />
 <meta name="keywords" content="" />
 
   <meta name="robots" content="noodp" />
 
-<link rel="canonical" href="http://localhost:1313/portifolio/posts/vuttr-bossabox-challenge/" />
+<link rel="canonical" href="http://localhost:1313/portifolio/posts/rag-multiagente/rag-multiagente/" />
 
 
 
@@ -72,9 +72,9 @@
 
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="VUTTR - Very Useful Tools to Remember">
-<meta property="og:description" content="API Rest para gerenciamento de ferramentas com foco em documentação e containerização." />
-<meta property="og:url" content="http://localhost:1313/portifolio/posts/vuttr-bossabox-challenge/" />
+<meta property="og:title" content="RAG Multi-Agente para Conhecimento Organizacional">
+<meta property="og:description" content="Coautor de artigo científico focado em agentes de IA para processamento de documentos extensos, publicado no XIX WESAAC." />
+<meta property="og:url" content="http://localhost:1313/portifolio/posts/rag-multiagente/rag-multiagente/" />
 <meta property="og:site_name" content="matheuskid@portifolio:-$" />
 
   <meta property="og:image" content="http://localhost:1313/portifolio/og-image.png">
@@ -83,7 +83,7 @@
 <meta property="og:image:height" content="627">
 
 
-  <meta property="article:published_time" content="2024-07-01 00:00:00 &#43;0000 UTC" />
+  <meta property="article:published_time" content="2025-07-01 00:00:00 &#43;0000 UTC" />
 
 
 
@@ -159,22 +159,22 @@
     
 <article class="post">
   <h1 class="post-title">
-    <a href="http://localhost:1313/portifolio/posts/vuttr-bossabox-challenge/">VUTTR - Very Useful Tools to Remember</a>
+    <a href="http://localhost:1313/portifolio/posts/rag-multiagente/rag-multiagente/">RAG Multi-Agente para Conhecimento Organizacional</a>
   </h1>
-  <div class="post-meta"><time class="post-date">2024-07-01</time></div>
+  <div class="post-meta"><time class="post-date">2025-07-01</time></div>
 
   
     <span class="post-tags">
       
-      #<a href="http://localhost:1313/portifolio/tags/node.js/">Node.js</a>&nbsp;
+      #<a href="http://localhost:1313/portifolio/tags/python/">Python</a>&nbsp;
       
-      #<a href="http://localhost:1313/portifolio/tags/express/">Express</a>&nbsp;
+      #<a href="http://localhost:1313/portifolio/tags/langgraph/">LangGraph</a>&nbsp;
       
-      #<a href="http://localhost:1313/portifolio/tags/postgresql/">PostgreSQL</a>&nbsp;
+      #<a href="http://localhost:1313/portifolio/tags/chromadb/">ChromaDB</a>&nbsp;
       
-      #<a href="http://localhost:1313/portifolio/tags/docker/">Docker</a>&nbsp;
+      #<a href="http://localhost:1313/portifolio/tags/llama3/">Llama3</a>&nbsp;
       
-      #<a href="http://localhost:1313/portifolio/tags/swagger/">Swagger</a>&nbsp;
+      #<a href="http://localhost:1313/portifolio/tags/ia-generativa/">IA Generativa</a>&nbsp;
       
     </span>
   
@@ -184,19 +184,19 @@
   
 
   <div class="post-content"><div>
-        <h3 id="descrição">Descrição<a href="#descrição" class="hanchor" ariaLabel="Anchor">#</a> </h3>
-<p>Desenvolvimento de uma ferramenta para organizar e gerenciar utilitários (tools) de desenvolvedores, permitindo buscas rápidas e organização por tags.</p>
-<h3 id="stack-tecnológica">Stack Tecnológica<a href="#stack-tecnológica" class="hanchor" ariaLabel="Anchor">#</a> </h3>
+        <p>Sistemas de busca tradicionais muitas vezes falham em extrair informações precisas de documentos corporativos longos. Este artigo propõe uma arquitetura <abbr title="Retrieval-Augmented Generation">RAG</abbr> multi-agente para resolver esse problema.</p>
+<hr>
+<h3 id="implementação">Implementação<a href="#implementação" class="hanchor" ariaLabel="Anchor">#</a> </h3>
 <ul>
-<li><strong>Backend:</strong> Construído com <strong>Node.js</strong> e <strong>Express</strong> seguindo a arquitetura RESTful.</li>
-<li><strong>Banco de Dados:</strong> Persistência relacional utilizando <strong>PostgreSQL</strong>.</li>
-<li><strong>Documentação:</strong> Uso estratégico do <strong>Swagger</strong> para facilitar o entendimento e consumo da API por outros desenvolvedores.</li>
+<li><kbd>Orquestração</kbd>: <strong>LangGraph</strong> + <strong>LangChain</strong> foi utilizado para gerenciar o fluxo de trabalho e a comunicação entre agentes especializados;</li>
+<li><kbd>Embeddings</kbd>: Implementação de banco de dados vetorial com <strong>ChromaDB</strong> e modelos <strong>MistralAI</strong>;</li>
+<li><kbd>LLM</kbd>: Uso do modelo <strong>Llama3</strong> com regras internas para mitigar alucinações e garantir a relevância das respostas.</li>
 </ul>
-<h3 id="diferenciais">Diferenciais<a href="#diferenciais" class="hanchor" ariaLabel="Anchor">#</a> </h3>
-<ul>
-<li>Ambiente 100% replicável via <strong>Docker</strong>.</li>
-<li>Foco em <strong>Clean Code</strong> e organização de repositório profissional.</li>
-</ul>
+<hr>
+<p>Este
+<a href="https://sol.sbc.org.br/index.php/wesaac/article/view/37548" target="_blank" rel="noopener noreferrer">artigo</a>
+foi escrito em conjunto com <a href="https://www.linkedin.com/in/guimoretti/" target="_blank" rel="noopener noreferrer">Guilherme Moretti</a> e <a href="https://www.linkedin.com/in/kalmax-sousa/" target="_blank" rel="noopener noreferrer">Kalmax Sousa</a>
+para o XIX <a href="https://sol.sbc.org.br/index.php/wesaac" target="_blank" rel="noopener noreferrer">WESAAC</a>;</p>
 
       </div></div>
 
